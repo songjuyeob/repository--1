@@ -1,5 +1,5 @@
-# repository--1
-제어공학 1 폴
+# repository1
+제어공학 1 폴더
 
 ---
 * 이건
